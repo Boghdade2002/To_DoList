@@ -108,7 +108,9 @@ body {
   text-decoration: line-through solid #f33629;
 }
 
-
+section.border {
+  /* border: 3px solid red; */
+}
 
 section.left-section {
   width: 100%; /* اجعل العرض نسبي */
