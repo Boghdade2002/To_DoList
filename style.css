@@ -131,7 +131,7 @@ section.left-section ul#removedList {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-section.left-section ul#removedList:hover {
+section.left-section li:hover {
   text-decoration: line-through solid #f33629;
 }
 
