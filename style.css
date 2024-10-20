@@ -112,7 +112,7 @@ section.border {
   /* border: 3px solid red; */
 }
 
-section.left-section {
+.left-section {
   width: 100%; /* اجعل العرض نسبي */
   max-width: 300px; /* حد أقصى للعرض */
   position: absolute;
